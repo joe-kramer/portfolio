@@ -1,26 +1,30 @@
+body {
+  background-color: #4d4d4d;
+  font-family: serif;
+}
+
+h1 {
+  font-size: 60px;
+}
+
 .sidebar{
   width: 300px;
-  background-color: salmon;
   padding-top: 8px;
 }
 
 .sidebar img {
-  width: 280px;
-  height: 280px;
+  width: 100%;
+  border: 3px solid black;
+}
+
+/* Adds margin between headshot and project list*/
+.addMargin {
+  margin-top: 15px;
 }
 
 .header {
-  background-color: yellow;
-  margin-top: 100px;
-  margin-bottom: 119px;
+  margin-top: 110px;
+  margin-bottom: 115px;
   text-align: center;
-}
-
-.two {
-  background-color: skyblue;
-}
-
-.three {
-  background-color: orange;
-  width: 150px;
+  color: white;
 }
