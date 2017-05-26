@@ -2,7 +2,7 @@
 
 #### _Joe Kramer's Portfolio, May 26, 2017_
 
-#### By _**{List of contributors}**_
+#### By _**Joe Kramer**_
 
 ## Description
 
@@ -16,7 +16,7 @@ _This is a personal portfolio that contains information for future employers suc
 
 ## Github pages link
 
-_ https://joe-kramer.github.io/portfolio/ _
+https://joe-kramer.github.io/portfolio/
 
 ## Future notes
 
