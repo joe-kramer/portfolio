@@ -1,10 +1,19 @@
-#headshot {
-  float: right;
+.sidebar{
   width: 300px;
+  background-color: salmon;
+  padding-top: 8px;
 }
 
-.one {
+.sidebar img {
+  width: 280px;
+  height: 280px;
+}
+
+.header {
   background-color: yellow;
+  margin-top: 100px;
+  margin-bottom: 119px;
+  text-align: center;
 }
 
 .two {
