@@ -5,10 +5,15 @@ body {
 
 h1 {
   font-size: 60px;
+  font-family: cursive;
+}
+
+.header h4 {
+  font-size: 24px;
 }
 
 .sidebar{
-  width: 300px;
+  width: 450px;
   padding-top: 8px;
 }
 
@@ -23,10 +28,13 @@ h1 {
 }
 
 .header {
-  margin-top: 110px;
-  margin-bottom: 115px;
+  margin-top: 119px;
+  margin-bottom: 120px;
   text-align: center;
   color: white;
+  /* floats to left when viewport is condensed */
+  /* only put in for requirement, TAKE OUT LATER */
+  float: left;
 }
 
 ol span {
